@@ -1,4 +1,4 @@
-Hi, I’m Jonathan
+# Hi, I’m Jonathan
 About Me
 🎮 Into Pokémon and World of Warcraft (WoW).
 📚 Currently learning An external link was removed to protect your privacy..
