@@ -1,13 +1,10 @@
-Here is the corrected format of your README.md file:
-
-```markdown
 # Hi, I’m Jonathan
 
 ## About Me
 - 🎮 Into Pokémon and World of Warcraft (WoW).
 - 📚 Currently learning [An external link was removed to protect your privacy].
 - 🤝 Looking to collaborate on anything that helps me learn.
-- 📧 How to reach me: [An external link was removed to protect your privacy].
+- 📧 How to reach me: jonathan@raiffsbits.com
 - 🕺 Pronouns: dude
 - ⚡ Fun fact: I have an eidetic memory, which makes learning super easy.
 
@@ -26,8 +23,8 @@ Here are some of the World of Warcraft addons I'm working on:
 
 ### GitHub Repos
 Check out my GitHub repositories:
-- [An external link was removed to protect your privacy]: A comprehensive WoW addon with features like rotation helpers, combat loggers, and more.
-- [An external link was removed to protect your privacy]: Scripts and tools for working with PKHex.
+- [GitHub Repository 1](https://github.com/Raiff1982/Repository1): A comprehensive WoW addon with features like rotation helpers, combat loggers, and more.
+- [GitHub Repository 2](https://github.com/Raiff1982/Repository2): Scripts and tools for working with PKHex.
 
 ### Coding Languages
 Here are some of the coding languages I've learned:
@@ -37,7 +34,7 @@ Here are some of the coding languages I've learned:
 - **HTML & CSS**: For building and styling web pages.
 
 ### Contact
-Feel free to reach out via [An external link was removed to protect your privacy].
+Feel free to reach out via jonathan@raiffsbits.com.
 
 ## Professional Profile
 ### Jonathan Harrison
@@ -110,6 +107,9 @@ Feel free to reach out via [An external link was removed to protect your privacy
 
 ## Publications
 - **"Universal Reasoning System"**: Created a comprehensive reasoning system that integrates various elements and perspectives to analyze and respond to tasks. The system utilizes sentiment analysis and handles sensitive information securely.
-```
 
-You can update your README.md file with this improved formatting to enhance readability.
+## Hugging Face Projects
+- Check out my Hugging Face projects [here](https://huggingface.co/Raiff1982).
+
+## Domain
+- Visit my website at [raiffsbits.com](https://www.raiffsbits.com).
