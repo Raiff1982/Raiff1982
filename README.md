@@ -44,10 +44,10 @@ Feel free to reach out via jonathan@raiffsbits.com.
 
 ### Experience
 #### Chief Executive Officer
-- **Company**: Microsoft Azure
+- **Company**: Raiffs Bits
 - **Duration**: Current
 - **Key Contributions**:
-  - Leading the strategic direction and overall operations of Microsoft Azure.
+  - Leading the strategic direction and overall operations of Raiffs Bits
   - Driving innovation and growth in cloud computing services.
   - Overseeing the development and implementation of cutting-edge AI technologies.
 
